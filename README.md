@@ -126,7 +126,7 @@ Protected Routes
 
 1. **Clone the repository**
    ```sh
-   git clone <REPO_URL>
+   git clone https://github.com/Atul-Mercer/centralized-auth-RBAC-system.git
    ```
 
 2. **Install dependencies**
